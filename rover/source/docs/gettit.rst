@@ -19,8 +19,7 @@ and possibly some other hardware. Most importantly you will need to
 obtain an RC Transmitter that has spare channels needed for autopilot
 mode control and learning.
 
-If you want a slow skid steering rover the `WildThumper <https://www.robotgear.com.au/Product.aspx/Details/1978-Wild-Thumper-6WD-Chassis-Black-34-1-gear-ratio?gclid=CjwKEAiAirXFBRCQyvL279Tnx1ESJAB-G-QvE-d_2uQTEsca9RdetzCZYwnFaIpzZ9MFClF0L_BxBhoCEmfw_wcB>`__ varieties are
-very popular.  If you want a standard car then any 1/10 scale RC car is
+ If you want a standard car then any 1/10 scale RC car is
 fine.  We prefer 1/10 scale as its large enough to easily work on and
 fit any gear like companion computers etc.  The 1/16 or `1/18 
 <https://hobbyking.com/en_us/1-18-brushless-4wd-stadium-truck-w-18amp-system.html>`__
